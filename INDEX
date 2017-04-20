@@ -1,0 +1,20 @@
+ONTANCESTOR             Annotation of ontology Identifiers to their
+                        Ancestors
+ONTCHILDREN             Annotation of ontology Identifiers to their
+                        Children
+ONTMAPCOUNTS            Number of mapped keys for the maps in this
+                        package
+ONTOBSOLETE             Annotation of ontology identifiers by terms
+                        defined and their status are obsolete
+ONTOFFSPRING            Annotation of ontology Identifiers to their
+                        Offspring
+ONTPARENTS              Annotation of ontology Identifiers to their
+                        Parents
+ONTSYNONYM              Map from ontology synonyms to ontology terms
+ONTTERM                 Annotation of ontology Identifiers to ontology
+                        Terms
+ONTTerms-class          Class "ONTTerms"
+ONTTermsAnnDbBimap      Class "ONTTermsAnnDbBimap"
+ONT_dbconn              Collect information about the package
+                        annotation DB
+topOnto.LION.db         Bioconductor annotation data package
