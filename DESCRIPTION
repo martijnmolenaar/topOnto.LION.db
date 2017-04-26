@@ -13,15 +13,3 @@ biocViews: AnnotationData, FunctionalAnnotation
 License: LGPL
 VignetteBuilder: knitr
 Built: R 3.3.2; ; 2017-04-15 14:40:36 UTC; unix
-RemoteType: github
-RemoteHost: https://api.github.com
-RemoteRepo: LION
-RemoteUsername: martijnmolenaar
-RemoteRef: master
-RemoteSha: 9346d7e90c258ddba2027f6d2519006fa7012729
-RemoteSubdir: topOnto.LION.db
-GithubRepo: LION
-GithubUsername: martijnmolenaar
-GithubRef: master
-GithubSHA1: 9346d7e90c258ddba2027f6d2519006fa7012729
-GithubSubdir: topOnto.LION.db
